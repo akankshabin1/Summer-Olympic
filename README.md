@@ -1,4 +1,4 @@
-# Summer-Olympic-Games-Analysis
+# Olympic-Games-Analysis
 
 data Info:
 1. player_id: Unique identifier for each athlete.
